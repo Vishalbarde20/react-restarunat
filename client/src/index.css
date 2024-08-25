@@ -1,0 +1,15 @@
+html, body {
+    scroll-behavior: smooth;
+  }
+  
+  #home, #about, #menu, #services, #reservations, #testimonials, #contact {
+    padding-top: 60px; /* Adjust based on the height of the navbar */
+  }
+  
+  /* In your App.css or a global stylesheet */
+body, html {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
